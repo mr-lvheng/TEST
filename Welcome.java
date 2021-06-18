@@ -4,5 +4,6 @@ public class Welcome {
         greeting[0]="Welcome to Core Java";
         greeting[1]="by Cay Horstmann";
         greeting[2]="and Gary Cornell";
+        System.out.println();
     }
 }
